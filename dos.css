@@ -1,5 +1,5 @@
 body { background-image: url("/drops.jpg");}
-h1 {font-family: Georgia, "Times New Roman", serif; border-style: outset; border-color: green;}
+h1 {font-family: Georgia, "Times New Roman", serif; border-style: solid; border-color: pink;}
 h2 {
 color: #191970; text-align: center;
 font-family: Georgia, "Times New Roman", serif; }
