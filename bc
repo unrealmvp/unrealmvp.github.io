@@ -31,6 +31,12 @@
     </ul>
   </div>
 </nav>
+<div class="container mt-3">
+  <h2>image fluid</h2>
+  <p>Google haku sekalaista antoi tämän, katsotaan onnistuuko img-fluid:</p>
+  <img class="img-fluid" src="https://cdn.finqu.com/users/26451/images/product/24753531-1-22428_480_480.png" alt="sekalaista" width="1100" height="500"> 
+</div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
