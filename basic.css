@@ -6,3 +6,10 @@ topleft {
   left: 16px;
   font-size: 18px;
 }
+btn {
+  background-color: DodgerBlue;
+  border: black;
+  color: black;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
