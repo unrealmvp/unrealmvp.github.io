@@ -1,10 +1,12 @@
-  body {color: white; background-color: black}
-bgimage {
-  background-image: url("https://images.pexels.com/photos/9607203/pexels-photo-9607203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-color: #cccccc;
-  height: 600px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  body {color: white; 
+background-image: url("https://img.freepik.com/premium-photo/car-repair-tools-dark-background-neat-wrench-layout_182793-500.jpg");}
+  p {
+color: white;
+  background-color: black;
+  border: 3px white;
+}
+h1 {
+color: white;
+  background-color: black;
+  border: 3px white;
 }
